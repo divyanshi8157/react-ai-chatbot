@@ -15,7 +15,7 @@ This is a simple AI chatbot built using React and Gemini API.
 - Dynamic question & answer rendering
 - API integration
 - Basic chat UI
-- Error handling for API limits
+
 
 ## 🛠 How to Run
 
